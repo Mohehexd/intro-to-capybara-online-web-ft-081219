@@ -26,3 +26,4 @@ describe "POST '/greet' - User Greeting" do
     expect(page).to have_text("Hi Ducky, nice to meet you!")
   end
 end
+
